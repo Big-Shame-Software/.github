@@ -9,6 +9,7 @@ I should mention how we ship: **source only**. There are no downloads to double-
 | App | What it does |
 | --- | --- |
 | [BestImage](https://github.com/Big-Shame-Software/BestImage) | Scores image files with Apple Vision's aesthetics score and renames them so Finder sorts the best first. |
+| [Gullfire](https://github.com/Big-Shame-Software/Gullfire) | Flies a simulated aircraft over a real city, drawn as green hidden-line wireframes on black. Source only. |
 
 ## How these are made
 
